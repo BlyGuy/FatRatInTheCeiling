@@ -2,6 +2,7 @@ using UnityEngine.Audio;
 using System;
 using UnityEngine;
 
+//This class manages all audio in the current scene
 public class AudioManager : MonoBehaviour
 {
 
